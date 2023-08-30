@@ -1,3 +1,9 @@
-[master 6c1a6f6] 0x06-python-classes
- 1 file changed, 1 insertion(+)
- create mode 100644 0x06-python-classes/README.md
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
