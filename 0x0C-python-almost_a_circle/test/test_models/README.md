@@ -1,1 +1,1 @@
-test_models
+test-model
